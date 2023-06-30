@@ -1,1 +1,1 @@
-# Machine-Learning-in-Chemistry
+# ML in chemistry with RDkit and pandas libraries
